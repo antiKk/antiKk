@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome
+
+A passionate contributor to [MustardOS!](https://github.com/MustardOS/) Known for diving deep into the details and pushing for things to work exactly as they should. 
+A proud adventure gamer, I spend a significant amount of time making sure classic point and click titles feel right at home on handheld devices.
+
+A critic of the so-called "8:7 CRT" mythology and never shy about sharing those opinions. Much of my work goes into refining RetroArch controls and relentlessly optimising ScummVM to run as smoothly as possible. 
+
+Also loves coffee and running, but not at the same time. 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
