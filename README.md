@@ -17,6 +17,7 @@ A critic of the so-called "8:7 CRT" mythology and never shy about sharing those 
 Also loves coffee and running, but not at the same time. 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/antikk)
 
 <!--
 **antiKk/antiKk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
